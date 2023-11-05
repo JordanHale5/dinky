@@ -5,29 +5,40 @@ layout: default
 <html>
 <head>
     <style>
-        /* CSS to position the image on the right */
+        /* CSS to position the image on the far right */
         .image-container {
             float: right;
             margin-left: 20px; /* Add some space between the image and content */
         }
+        /* Clear fix to prevent content from wrapping around the image */
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
     </style>
 </head>
 <body>
-    <div class="image-container">
-        <img src="https://i.pinimg.com/564x/2d/5d/6a/2d5d6a42cfb461030bb0bbfb5fc197ba.jpg" alt="Your Image">
+    <div class="clearfix"> <!-- Apply clear fix to the content -->
+        <div class="image-container">
+            <img src="https://i.pinimg.com/564x/2d/5d/6a/2d5d6a42cfb461030bb0bbfb5fc197ba.jpg" alt="Your Image">
+        </div>
+    
+        <h2>Jordan Hale</h2>
+        
+        This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+    
+        <h2>Header 2</h2>
+        
+        > This is a blockquote following a header.
+        >
+        > When something is important enough, you do it even if the odds are not in your favor.
+    
+        <!-- Rest of your content -->
     </div>
-    
-    <h2>Jordan Hale</h2>
-    
-    This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+</body>
+</html>
 
-    <h2>Header 2</h2>
-    
-    > This is a blockquote following a header.
-    >
-    > When something is important enough, you do it even if the odds are not in your favor.
-
-    <!-- Rest of your content -->
 
 </body>
 </html>
