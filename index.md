@@ -1,6 +1,3 @@
----
-layout: default
----
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,116 +18,149 @@ layout: default
         <img src="https://i.pinimg.com/564x/2d/5d/6a/2d5d6a42cfb461030bb0bbfb5fc197ba.jpg" alt="Your Image">
     </div>
 
-    <h2>Jordan Hale</h2>
+    <h1>Jordan Hale</h1>
 
-    Hello there. My name is Jordan Hale and I'm a computer science major. This is the beginning of my website that will soon display all of my projects. I hope to have a couple done by the end of the year so check back soon.
-
+    <p>Hello there. My name is Jordan Hale, and I'm a computer science major. This is the beginning of my website that will soon display all of my projects. I hope to have a couple done by the end of the year, so check back soon.</p>
 
     <h2>Header 2</h2>
 
-    > This is a blockquote following a header.
-    >
-    > When something is important enough, you do it even if the odds are not in your favor.
+    <blockquote>
+        <p>This is a blockquote following a header.</p>
+        <p>When something is important enough, you do it even if the odds are not in your favor.</p>
+    </blockquote>
 
-    ### Header 3
+    <h3>Header 3</h3>
 
-    ```js
-    // Javascript code with syntax highlighting.
-    var fun = function lang(l) {
-      dateformat.i18n = require('./lang/' + l)
-      return true;
-    ```
-    
-    ```ruby
-    # Ruby code with syntax highlighting
-    GitHubPages::Dependencies.gems.each do |gem, version|
-      s.add_dependency(gem, "= #{version}")
-    end
-    ```
+    <pre><code class="language-js">
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+    </code></pre>
 
-    #### Header 4
+    <pre><code class="language-ruby">
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+    </code></pre>
 
-    *   This is an unordered list following a header.
-    *   This is an unordered list following a header.
-    *   This is an unordered list following a header.
+    <h4>Header 4</h4>
 
-    ##### Header 5
+    <ul>
+        <li>This is an unordered list following a header.</li>
+        <li>This is an unordered list following a header.</li>
+        <li>This is an unordered list following a header.</li>
+    </ul>
 
-    1.  This is an ordered list following a header.
-    2.  This is an ordered list following a header.
-    3.  This is an ordered list following a header.
+    <h5>Header 5</h5>
 
-    ###### Header 6
+    <ol>
+        <li>This is an ordered list following a header.</li>
+        <li>This is an ordered list following a header.</li>
+        <li>This is an ordered list following a header.</li>
+    </ol>
 
-    | head1        | head two          | three |
-    |:-------------|:------------------|:------|
-    | ok           | good swedish fish | nice  |
-    | out of stock | good and plenty   | nice  |
-    | okay         | good `oreos`      | hmm   |
-    | ok           | good `zoute` drop | yumm  |
+    <h6>Header 6</h6>
 
-    ### There's a horizontal rule below this.
+    <table>
+        <thead>
+            <tr>
+                <th>head1</th>
+                <th>head two</th>
+                <th>three</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>ok</td>
+                <td>good swedish fish</td>
+                <td>nice</td>
+            </tr>
+            <tr>
+                <td>out of stock</td>
+                <td>good and plenty</td>
+                <td>nice</td>
+            </tr>
+            <tr>
+                <td>okay</td>
+                <td>good <code>oreos</code></td>
+                <td>hmm</td>
+            </tr>
+            <tr>
+                <td>ok</td>
+                <td>good <code>zoute</code> drop</td>
+                <td>yumm</td>
+            </tr>
+        </tbody>
+    </table>
 
-    * * *
+    <hr>
 
-    ### Here is an unordered list:
+    <h3>There's a horizontal rule below this.</h3>
 
-    *   Item foo
-    *   Item bar
-    *   Item baz
-    *   Item zip
+    <ul>
+        <li>Item foo</li>
+        <li>Item bar</li>
+        <li>Item baz</li>
+        <li>Item zip</li>
+    </ul>
 
-    ### And an ordered list:
+    <ol>
+        <li>Item one</li>
+        <li>Item two</li>
+        <li>Item three</li>
+        <li>Item four</li>
+    </ol>
 
-    1.  Item one
-    2.  Item two
-    3.  Item three
-    4.  Item four
+    <ul>
+        <li>level 1 item
+            <ul>
+                <li>level 2 item</li>
+                <li>level 2 item</li>
+                    <ul>
+                        <li>level 3 item</li>
+                        <li>level 3 item</li>
+                    </ul>
+            </ul>
+        </li>
+        <li>level 1 item
+            <ul>
+                <li>level 2 item</li>
+                <li>level 2 item</li>
+                <li>level 2 item</li>
+            </ul>
+        </li>
+        <li>level 1 item
+            <ul>
+                <li>level 2 item</li>
+                <li>level 2 item</li>
+            </ul>
+        </li>
+        <li>level 1 item</li>
+    </ul>
 
-    ### And a nested list:
+    <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Small Octocat Image">
 
-    - level 1 item
-      - level 2 item
-      - level 2 item
-        - level 3 item
-        - level 3 item
-    - level 1 item
-      - level 2 item
-      - level 2 item
-      - level 2 item
-    - level 1 item
-      - level 2 item
-      - level 2 item
-    - level 1 item
-
-    ### Small image
-
-    ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-    ### Large image
-
-    ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-    ### Definition lists can be used with HTML syntax.
+    <img src="https://guides.github.com/activities/hello-world/branching.png" alt="Large Branching Image">
 
     <dl>
-    <dt>Name</dt>
-    <dd>Godzilla</dd>
-    <dt>Born</dt>
-    <dd>1952</dd>
-    <dt>Birthplace</dt>
-    <dd>Japan</dd>
-    <dt>Color</dt>
-    <dd>Green</dd>
+        <dt>Name</dt>
+        <dd>Godzilla</dd>
+        <dt>Born</dt>
+        <dd>1952</dd>
+        <dt>Birthplace</dt>
+        <dd>Japan</dd>
+        <dt>Color</dt>
+        <dd>Green</dd>
     </dl>
 
-    ```
-    Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-    ```
+    <pre><code>
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+    </code></pre>
 
-    ```
-    The final element.
-    ```
-
+    <pre><code>
+The final element.
+    </code></pre>
 </body>
 </html>
