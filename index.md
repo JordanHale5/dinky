@@ -8,11 +8,11 @@ layout: default
         /* CSS to position the image on the far right */
         .image-container {
             float: right;
-            margin-left: 20px; /* Add some space between the image and content */
+            margin-right: 10px; /* Add some space between the image and content */
         }
         /* CSS to make the image smaller */
         .image-container img {
-            width: 150px; /* Adjust the width to your preferred size */
+            width: 50px; /* Adjust the width to your preferred size */
         }
     </style>
 </head>
@@ -65,7 +65,7 @@ layout: default
     |:-------------|:------------------|:------|
     | ok           | good swedish fish | nice  |
     | out of stock | good and plenty   | nice  |
-    | ok           | good `oreos`      | hmm   |
+    | okay         | good `oreos`      | hmm   |
     | ok           | good `zoute` drop | yumm  |
 
     ### There's a horizontal rule below this.
