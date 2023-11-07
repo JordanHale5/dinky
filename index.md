@@ -2,9 +2,10 @@
 layout: default
 ---
 
-### This is me
+### This isn't me but it sure looks like me
 
-![Diego Marquez](https://i.pinimg.com/originals/05/b1/0b/05b10bff79397c4fecfb68c23235a5b4.png)
+![Diego Marquez](https://i.pinimg.com/originals/05/b1/0b/05b10bff79397c4fecfb68c23235a5b4.png) <!-- Original image -->
+<img src="https://i.pinimg.com/originals/05/b1/0b/05b10bff79397c4fecfb68c23235a5b4.png" alt="Diego Marquez" width="100" height="50"> <!-- Resized image -->
 
 There should be whitespace between paragraphs.
 
