@@ -11,7 +11,7 @@ Uh Oh
 Here's a chart instead!
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <style>
