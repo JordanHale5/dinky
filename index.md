@@ -5,19 +5,14 @@ layout: default
 
 Hello there. My name is Jordan Hale, and I'm a computer science major. This is the beginning of my website that will soon display all of my projects. I hope to have a couple done by the end of the year, so check back soon.
 
+Click 'GO' to go look at my projects!
+[GO](./another-page.html).
+
+
 ### This isn't me but it sure looks like me
 
 
 <img src="https://i.pinimg.com/originals/05/b1/0b/05b10bff79397c4fecfb68c23235a5b4.png" alt="Diego Marquez" width="150" height="150"> <!-- Resized image -->
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-
-
-Click 'GO' to go look at my projects!
-[GO](./another-page.html).
 
 
 ## Header 2
