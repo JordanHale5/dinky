@@ -3,7 +3,7 @@ layout: default
 ---
 ## My Website
 
-Hello there. My name is Jordan Hale, and I'm a computer science major. This is the beginning of my website that will soon display all of my projects. I hope to have a couple done by the end of the year, so check back soon.
+Hello there. My name is Jordan Hale, and I am currently studding computer science. This is the beginning of my website that will soon display all of my projects. I hope to have a couple done by the end of the year, so check back soon.
 
 Click 'GO' to go look at my projects!
 [GO](./another-page.html).
@@ -15,90 +15,19 @@ Click 'GO' to go look at my projects!
 <img src="https://i.pinimg.com/originals/05/b1/0b/05b10bff79397c4fecfb68c23235a5b4.png" alt="Diego Marquez" width="150" height="150"> <!-- Resized image -->
 
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Personal Life
+I have a good amount of hobbies. I have recently started to become pretty good at skateboarding. I love snowboarding, and only started 3 years ago. Now I'm always excited for winter. I go to the gym pretty consistantly since I think living a healthy lifestyle is imprtant and I have recently started eating healthier. And of course I play video games pretty often. Surprisly though I only play with friends because I get bored to fast playing alone.
 
 
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
+### Random Facts About Me
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Jordan Hale</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>2005</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>United States</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
