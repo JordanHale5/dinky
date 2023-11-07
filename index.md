@@ -25,9 +25,11 @@ I have a good amount of hobbies. I have recently started to become pretty good a
 <dl>
 <dt>Name</dt>
 <dd>Jordan Hale</dd>
-<dt>Born</dt>
+<dt>Birthday</dt>
 <dd>2005</dd>
 <dt>Birthplace</dt>
-<dd>United States</dd>
+<dd>Spokane, Washington, United States</dd>
+<dt>Favorite Color<dt>
+<dd>Blue<dd>
 </dl>
 
