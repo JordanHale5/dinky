@@ -5,7 +5,6 @@ layout: default
 ## Welcome to my project page!
 
 Uh Oh
-
 <p style="display: inline;">Sadly there's no projects here yet</p> <p style="display: inline;">:(</p>
 
 <p> </p>
