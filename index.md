@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+## My Website
+
+Hello there. My name is Jordan Hale, and I'm a computer science major. This is the beginning of my website that will soon display all of my projects. I hope to have a couple done by the end of the year, so check back soon.
 
 ### This isn't me but it sure looks like me
 
@@ -11,9 +14,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## My Website
 
-Hello there. My name is Jordan Hale, and I'm a computer science major. This is the beginning of my website that will soon display all of my projects. I hope to have a couple done by the end of the year, so check back soon.
 
 Click 'GO' to go look at my projects!
 [GO](./another-page.html).
