@@ -5,7 +5,7 @@ layout: default
 ### This isn't me but it sure looks like me
 
 
-<img src="https://i.pinimg.com/originals/05/b1/0b/05b10bff79397c4fecfb68c23235a5b4.png" alt="Diego Marquez" width="200" height="150"> <!-- Resized image -->
+<img src="https://i.pinimg.com/originals/05/b1/0b/05b10bff79397c4fecfb68c23235a5b4.png" alt="Diego Marquez" width="150" height="150"> <!-- Resized image -->
 
 There should be whitespace between paragraphs.
 
