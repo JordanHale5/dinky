@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Small image
+### This is me
 
 ![Diego Marquez](https://i.pinimg.com/originals/05/b1/0b/05b10bff79397c4fecfb68c23235a5b4.png)
 
