@@ -3,7 +3,7 @@ layout: default
 ---
 ## My Website
 
-Hello there. My name is Jordan Hale, and I am currently studding computer science. This is the beginning of my website that will soon display all of my projects. I hope to have a couple done by the end of the year, so check back soon.
+Hello there. My name is Jordan, and I am currently studding computer science. I recently became interested in computer science only a couple of months ago. It was actually my friend who introduced me to it and I have been intrigued ever since. This is the beginning of my website that will soon display all of my projects. I hope to have a couple done by the end of the year, so check back later.
 
 Click 'GO' to go look at my projects!
 [GO](./another-page.html).
