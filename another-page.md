@@ -10,6 +10,32 @@ Uh Oh
 <p> </p>
 Here's a chart instead!
 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .image-container {
+            display: flex; /* Use flexbox to align images horizontally */
+        }
+
+        .image-container img {
+            width: 100px; /* Set the width of each image */
+            margin-right: 10px; /* Add spacing between images */
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img src="https://assets.stickpng.com/images/5b43b818e99939b4572e32ab.png" alt="Fortnite Logo">
+        <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/986648642d1a68a3178f6869689cc260.png" alt="Image Description">
+        <img src="https://toppng.com/uploads/preview/hd-roblox-black-text-logo-with-symbol-sign-icon-png-116785563566izqvuhl2f.png" alt="Image Description">
+    </div>
+</body>
+</html>
+
+
+
 | Game        | Pros                               | Cons                                        |
 |:------------ |:-----------------------------------|:-------------------------------------------|
 | Fortnite    | 1. Battle royale                   | 1. Very repetitive                         |
