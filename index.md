@@ -4,7 +4,7 @@ layout: default
 
 ## Small image
 
-![Diego Marquez](https://static.wikia.nocookie.net/certwo/images/f/f1/Diego_Marquez_2018_flipped.png/revision/latest?cb=20190712002420.jpeg)
+![Diego Marquez](https://i.pinimg.com/originals/05/b1/0b/05b10bff79397c4fecfb68c23235a5b4.png)
 
 There should be whitespace between paragraphs.
 
