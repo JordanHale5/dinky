@@ -10,20 +10,15 @@ Uh Oh
 <p> </p>
 Here's a chart instead!
 
-| Game        | Pros                                          | Cons        |
-|:------------ |:----------------------------------------------|:------------|
-| Fortnite    | 1. Exciting battle royale gameplay.           | 1. Frequent updates can be disruptive.        |
-|             | 2. Frequent updates and new content.          | 2. Learning curve for beginners.             |
-|             | 3. Cross-platform play.                       | 3. In-game purchases can be costly.           |
-|             | 4. Vibrant in-game community.                 | 4. Competitive player base.                  |
-| Minecraft   | 1. Creative and sandbox gameplay.             | 1. Limited graphics may not appeal to all.   |
-|             | 2. Endless possibilities and mod support.     | 2. May require a learning curve.             |
-|             | 3. Educational and family-friendly.           | 3. Multiplayer servers may have issues.      |
-|             | 4. Strong and dedicated player base.          |                                            |
-| Roblox      | 1. Vast library of user-generated content.     | 1. Variable game quality due to user content. |
-|             | 2. Easy game creation and scripting.          | 2. Potential for in-game purchases.          |
-|             | 3. Social platform for gamers.                | 3. Safety concerns for younger players.      |
-|             | 4. Active and diverse community.              |                                            |
+| Game        | Pros                               | Cons                                        |
+|:------------ |:-----------------------------------|:-------------------------------------------|
+| Fortnite    | 1. Battle royale                   | 1. Very repetitive                         |
+|             | 2. Frequent updates and new content | 2. Learning curve for beginners             |
+| Minecraft   | 1. Open World                      | 1. Limited graphics may not appeal to all |
+|             | 2. Imagination-friendly            | 2. May become boring with a lack of imagination |
+| Roblox      | 1. Large variety of all types of games | 1. Age-restricted games                  |
+|             | 2. Easy game creation and scripting  | 2. Potential for in-game purchases         |
+
 
 
 
