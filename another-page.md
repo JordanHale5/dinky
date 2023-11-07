@@ -29,7 +29,7 @@ Here's a chart instead!
     <div class="image-container">
         <img src="https://foornite.files.wordpress.com/2018/09/imjozoi1.png?w=640.png" alt="Fortnite Logo" style="border: none;">
         <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/986648642d1a68a3178f6869689cc260.png" alt="Image Description" style="border: none;">
-        <img src="https://toppng.com/uploads/preview/hd-roblox-black-text-logo-with-symbol-sign-icon-png-116785563566izqvuhl2f.png" alt="Image Description" style="border: none;">>
+        <img src="https://toppng.com/uploads/preview/hd-roblox-black-text-logo-with-symbol-sign-icon-png-116785563566izqvuhl2f.png" alt="Image Description" style="border: none;">
     </div>
 </body>
 </html>
