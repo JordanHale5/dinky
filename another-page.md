@@ -10,6 +10,7 @@ Uh Oh
 
 <p> </p>
 Here's a chart instead!
+
 | Game        | Pros                                          | Cons        |
 |:------------ |:----------------------------------------------|:------------|
 | Fortnite    | 1. Exciting battle royale gameplay.           | 1. Frequent updates can be disruptive.        |
